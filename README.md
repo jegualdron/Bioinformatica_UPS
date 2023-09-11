@@ -5,7 +5,7 @@
 
 ##### En la carpeta [Clases](https://github.com/jegualdron/Bioinformatica_UPS/tree/main/Clases) podran encontrar las diapositivas/pdf de las clases.
 
-##### En la carpeta [laboratorio] podran encontrar las actividades asignadas para cada clase/modulo.
+##### En la carpeta [Labs](https://github.com/jegualdron/Bioinformatica_UPS/tree/main/Labs) podran encontrar las actividades asignadas para cada clase/modulo.
 
 *Recuerden que en caso de no tener un sistema operativo Linux/Unix (Mac) deben instalar una maquina virtual con Linux dentro de su ordenador Windows, para esto siga las instrucciones que se encuentran [AQUÍ](https://osl.ugr.es/2020/09/29/como-instalar-ubuntu-en-virtual-box/).*
 
