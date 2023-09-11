@@ -3,7 +3,7 @@
 
 #### Estimados estudiantes, bienvenidos al repositorio de la cátedra de Bioinformática para Ingeniería en Biotecnología UPS 2023.
 
-##### En la carpeta [clases] (https://github.com/jegualdron/Bioinformatica_UPS/edit/main/Clases) podran encontrar las diapositivas/pdf de las clases.
+##### En la carpeta [Clases](https://github.com/jegualdron/Bioinformatica_UPS/tree/main/Clases) podran encontrar las diapositivas/pdf de las clases.
 
 ##### En la carpeta [laboratorio] podran encontrar las actividades asignadas para cada clase/modulo.
 
