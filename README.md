@@ -1,6 +1,5 @@
-![](logo.png){width="2.6cm"}
-
 # ***Bioinformática UPS***
+
 
 #### Estimados estudiantes, bienvenidos al repositorio de la cátedra de Bioinformática para Ingeniería en Biotecnología UPS 2023.
 
@@ -10,11 +9,13 @@
 
 *Recuerden que en caso de no tener un sistema operativo Linux/Unix (Mac) deben instalar una maquina virtual con Linux dentro de su ordenador Windows, para esto siga las instrucciones que se encuentran [AQUÍ](https://osl.ugr.es/2020/09/29/como-instalar-ubuntu-en-virtual-box/).*
 
+
+----------------------------------------------------------------------------
 | **Código**  | **Asignatura** | **Facultad** | **Depto.**    | **Horas**   |
 |-------------|----------------|--------------|---------------|-------------|
 | Por definir | Bioinformatíca | Ingeniería   | Biotecnología | por definir |
 
-------------------------------------------------------------------------
+---------------------------------------------------------------------------
 
 | **Clase** | **Fecha**   | **Temas**                                                                                                                                                                                                                                       |
 |------------------|------------------|-------------------------------------|
